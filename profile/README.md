@@ -3,7 +3,7 @@ JSobf is a proof of concept obfuscation tool designed for JavaScript code optimi
 
 It's essential to note that JSobf is still a work in progress, representing a proof of concept that I've been actively developing for some time. During the development process, I've identified some significant issues related to parameter injection that need to be addressed.
 
-#### security through obscurity, not design
+#### security through obscurity
 
 ## SAMPLES
 ### v0.3.1 | 7,660 bytes | 35951c0
