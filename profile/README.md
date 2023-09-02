@@ -1,22 +1,25 @@
 # JSobf
+[latest sample](https://github.com/jsobf/samples/tree/main/archive/v2/0.1)
 ## WE ARE CURRENTLY UNDERGOING A RECODE
 JSobf is a proof-of-concept obfuscation tool designed for JavaScript code optimization and obfuscation, leveraging WebAssembly (Wasm) to enhance its capabilities. The tool employs intra-procedural passes, each tailored to reshape the code in a way that minimizes the impact on both time and space complexity. By utilizing the power of Wasm, we can achieve significant strength in obfuscation while maintaining a stable execution time.
 
 It's essential to note that JSobf is still a WIP, and that it's missing critical features and has problems that need fixing.
 ---
 # TODO
-- [ ] Identification Mangling
-- [ ] Array Pooling/String Concealment
-- [ ] String Encryption
-- [ ] Number Expander
-- [ ] Globals Concealer
-- [ ] Proxy Functions
-- [ ] Opaque Predicates
-- [ ] Control Flow Flattening
+- [x] Identification Mangling
+- [x] Array Pooling
+- [x] String Encryption
+- [x] Number Expressor
+- [x] Globals Concealer
+- [x] Proxy Functions
+- [x] Opaque Predicates
+- [x] Control Flow Flattening
+- [ ] Dispatcher
 - [ ] Flow Outlining
+- [ ] Flow Inlining
 - [ ] Code Packing
-- [ ] Self Defending (partial)
-- [ ] Debug Detection (low priority)
+- [ ] Anti-Tamper
+- [ ] Anti-Debug
 
 ## INFO
 #### LATEST SAMPLES CAN BE FOUND [HERE](https://github.com/jsobf/samples/tree/main/archive/0.5.x/0.5.2)
