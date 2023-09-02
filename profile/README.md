@@ -22,5 +22,5 @@ It's essential to note that JSobf is still a WIP, and that it's missing critical
 - [ ] Anti-Debug
 
 ## INFO
-#### LATEST SAMPLES CAN BE FOUND [HERE](https://github.com/jsobf/samples/tree/main/archive/0.5.x/0.5.2)
+#### JSOBF SAMPLES CAN BE FOUND [HERE](https://github.com/jsobf/samples/tree/main/archive/0.5.x/0.5.2)
 #### WE ARE NOT ASSOCIATED WITH [JSOBF.COM](https://www.jsobf.com/en/) WHICH CAN BE DEOBFUSCATED WITH [SYNCHRONY](https://deobfuscate.relative.im/)
